@@ -47,6 +47,6 @@ int main() {
     
     }
     //cout<<c<<endl;
-    //cout<<l<<endl;
+    //cout<<l<<endl
 }
 }
